@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e406562c-bead-4ea9-8cb1-48c42c6085f4" name="75sftp" url="http://10.108.210.37">
+        <fileTransfer host="10.108.210.37" port="22" rootFolder="/home/chenzf" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
